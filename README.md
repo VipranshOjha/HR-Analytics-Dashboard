@@ -53,7 +53,3 @@ The **HR Analytics Dashboard** helps HR departments and business leaders to:
 ### 📷 Preview
 
 ![image](https://github.com/user-attachments/assets/fc6d1edc-41ea-4e7c-b7f4-14487a4f5ea8)
-
-### 📎 License
-
-This project is licensed under the [MIT License](LICENSE).
